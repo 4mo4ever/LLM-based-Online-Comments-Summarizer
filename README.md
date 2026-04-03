@@ -20,6 +20,7 @@ Key Features
 4. Multi-Agent Pipeline: Uses a modular, parallel AI agent architecture to ensure fast and accurate data processing.
 
 Here are our team members. Feel free to contact us if there are any questions!
+
 Tianqi Zhu, tzhu0866@uni.sydney.edu.au (Leader)
 
 Henry Peng, hpen0948@uni.sydney.edu.au
