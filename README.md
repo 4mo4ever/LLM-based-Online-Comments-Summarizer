@@ -18,3 +18,20 @@ Key Features
 3. Smart Impact Weighting: Calculates a final "weighting score" for each comment based on algorithmic factors like the number of likes, how recent the comment is, and the author's expertise.
 
 4. Multi-Agent Pipeline: Uses a modular, parallel AI agent architecture to ensure fast and accurate data processing.
+
+Here are our team members. Feel free to contact us if there are any questions!
+Tianqi Zhu, tzhu0866@uni.sydney.edu.au (Leader)
+
+Henry Peng, hpen0948@uni.sydney.edu.au
+
+Haozhi Xie, hxie0854@uni.sydney.edu.au	
+
+Lizhuo Ren, lren0847@uni.sydney.edu.au	
+
+Zhiyi Dong, zdon0834@uni.sydney.edu.au
+
+Hongteng Dong, hdon0660@uni.sydney.edu.au (Communicator)
+
+Yuxin Chen, yche0542@uni.sydney.edu.au
+
+Haolin Du, hadu0740@uni.sydney.edu.au
